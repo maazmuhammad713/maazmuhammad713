@@ -1,3 +1,4 @@
+![logo](https://github.com/maazmuhammad713/maazmuhammad713/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Maaz Ghazanfar</h1>
 <h3 align="center">A Software Engineer from Pakistan</h3>
 
