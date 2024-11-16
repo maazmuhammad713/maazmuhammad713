@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maazmuhammad713&label=Profile%20views&color=0e75b6&style=flat" alt="maazmuhammad713" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **AutoMax**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m a **NextJS Developer**
 
 - 💬 Ask me about **MERN**
 
