@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I'm currently working on **[Etlkit]([https://github.com/your-repo/etlkit](https://www.npmjs.com/package/etlkit))**, A lightweight, extensible ETL framework for Node.js. Define extract, transform, and load pipelines with built-in logging, error handling, context, and events. V1 is ready… and yes, it *actually works* (most of the time 😄).
+- 🔭 I'm currently working on **[Etlkit](https://www.npmjs.com/package/etlkit)**, A lightweight, extensible ETL framework for Node.js. Define extract, transform, and load pipelines with built-in logging, error handling, context, and events. V1 is ready… and yes, it *actually works* (most of the time 😄).
 
 - 🌱 I’m a **Full Stack Developer**
 
