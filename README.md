@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on **AutoMax**
+- 🔭 I’m currently working on **Etlkit**
 
-- 🌱 I’m a **NextJS Developer**
+- 🌱 I’m a **Full Stack Developer**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Food**
 
 - 📫 How to reach me **maazmuhammad713@gmail.com**
 
